@@ -13,9 +13,10 @@ ii) Open and run the "Assignment_grp.py" file
 iii) Enjoy!
 
 # Issues and Features Feedback
-- Head to "discussion" tab to create a new discussion
+- Head to "issues" tab to create a new issue
 - Feel free to report any bugs if found
 - Feel free to discuss about any features that you found lacking in
+- Our group will take time and effort in replying and improving our project
 
 # Ownership of Program
 - This program is created solely for assignment purposes by:

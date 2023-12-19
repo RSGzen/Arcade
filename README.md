@@ -12,6 +12,20 @@ i) Download the whole folder
 ii) Open and run the "Assignment_grp.py" file
 iii) Enjoy!
 
+# Rules of BlackJack
+
+- The objective of the game:
+     Must achieve the total score of 21 to win.
+
+- Betting Rules:
+	Player will have 10000 in their accounts and they can place the whatever bet amount they like. If player loses the money will be deducted but if win then the money will be added. Thus, if player losses all the money, then the betting system will reset the money to the usual amount which is 10000.
+ 
+- Settlement:
+	1)	Player or dealer has blackjack will automatically be the winner.
+	2)	If player achieve the score of 15 and choose to run instead of stay then the game will be a draw.
+	3)	Player or dealer whoever has the 5 card Charlie then it will automatically be the winner unless both have the 5 card Charlie then it will be a tied.
+	4)	Whoever has the higher score and it is less than or equal to 21 will be the winner.
+
 # Issues and Features Feedback
 - Head to "issues" tab to create a new issue
 - Feel free to report any bugs if found

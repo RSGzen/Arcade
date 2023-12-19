@@ -12,9 +12,9 @@ Beginner project made purely by Xiamen University students.
 
 - If any issues occured on installing the modules, please refer to the following instructions:
 
-i) https://pypi.org/project/colorama/ 
-ii) https://pypi.org/project/pygame/
-iii) https://www.tutorialspoint.com/how-to-install-tkinter-in-python
+1) https://pypi.org/project/colorama/ 
+2) https://pypi.org/project/pygame/
+3) https://www.tutorialspoint.com/how-to-install-tkinter-in-python
 
 
 # How To Play
@@ -60,11 +60,11 @@ iii) https://www.tutorialspoint.com/how-to-install-tkinter-in-python
 
 - This program is created solely for assignment purposes by:
 
-- Ge Rui Sen
-- Chua Meng Hong
-- Yip Mun Jun
-- Lee Jun Wen
-- Yeoh Tzi Kian
+1) Ge Rui Sen
+2) Chua Meng Hong
+3) Yip Mun Jun
+4) Lee Jun Wen
+5) Yeoh Tzi Kian
 
 
 # Declaration 

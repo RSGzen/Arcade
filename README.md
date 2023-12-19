@@ -19,9 +19,9 @@ iii) https://www.tutorialspoint.com/how-to-install-tkinter-in-python
 
 # How To Play
 
-i) Download the whole folder
-ii) Open and run the "main.py" file
-iii) Enjoy!
+- Download the whole folder
+- Open and run the "main.py" file
+- Enjoy!
 
 
 # Navigate Through The Program
@@ -59,11 +59,12 @@ iii) Enjoy!
 # Ownership of Program
 
 - This program is created solely for assignment purposes by:
-i) Ge Rui Sen
-ii) Chua Meng Hong
-iii) Yip Mun Jun
-iv) Lee Jun Wen
-v) Yeoh Tzi Kian
+
+- Ge Rui Sen
+- Chua Meng Hong
+- Yip Mun Jun
+- Lee Jun Wen
+- Yeoh Tzi Kian
 
 
 # Declaration 

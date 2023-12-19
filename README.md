@@ -1,16 +1,36 @@
 # Arcade
+
 School project under groupwork which contains 5 small games.
 Beginner project made purely by Xiamen University students.
 
+
 # YOU NEED COLORAMA, PYGAME AND TKINTER MODULE DOWNLOADED TO RUN THIS PROGRAM
-# To install colorama >>> pip install colorama
-# To install pygame >>> pip install pygame
-# To install tkinter >>> pip install tk
+
+-  To install colorama >>> pip install colorama
+-  To install pygame >>> pip install pygame
+-  To install tkinter >>> pip install tk
+
+- If any issues occured on installing the modules, please refer to the following instructions:
+
+i) https://pypi.org/project/colorama/ 
+ii) https://pypi.org/project/pygame/
+iii) https://www.tutorialspoint.com/how-to-install-tkinter-in-python
+
 
 # How To Play
+
 i) Download the whole folder
-ii) Open and run the "Assignment_grp.py" file
+ii) Open and run the "main.py" file
 iii) Enjoy!
+
+
+# Navigate Through The Program
+
+- Choose the game you would like to play by entering its corresponding number
+- After playing, you would have a choice to continue or quit
+	~ If yes, enter 'y' or 'Y'
+	~ If no, enter 'n' or 'N'
+
 
 # Rules of BlackJack
 
@@ -26,13 +46,18 @@ iii) Enjoy!
 	3)	Player or dealer whoever has the 5 card Charlie then it will automatically be the winner unless both have the 5 card Charlie then it will be a tied.
 	4)	Whoever has the higher score and it is less than or equal to 21 will be the winner.
 
+
 # Issues and Features Feedback
+
+- Go to the GitHub website and search for repo:RSGzen/Arcade
 - Head to "issues" tab to create a new issue
 - Feel free to report any bugs if found
 - Feel free to discuss about any features that you found lacking in
 - Our group will take time and effort in replying and improving our project
 
+
 # Ownership of Program
+
 - This program is created solely for assignment purposes by:
 i) Ge Rui Sen
 ii) Chua Meng Hong
@@ -40,5 +65,13 @@ iii) Yip Mun Jun
 iv) Lee Jun Wen
 v) Yeoh Tzi Kian
 
-Program does not hold any copyright for any of the game made which are all referenced to popular games available.
-All types of uses of this program is allowed including entertainment, education, business and etc.
+
+# Declaration 
+
+Program does not hold any copyright for any of the game made which are all referenced to games invented by other people or organizations.
+All types of uses of this program is allowed and no legal responsibility is held for any possible uses of this program.
+Please contact through GitHub messaging of "RSGzen" if any copyright infringement occured and we will kindly remove it from the internet domain.
+
+# Lisence
+
+- Can be viewed through the same page on the Github repository section.
